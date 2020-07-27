@@ -1,0 +1,18 @@
+@import url("main.css");
+
+u.underlined {
+    text-decoration: rgb(44,160,202) underline;
+    text-transform: uppercase;
+}
+
+figcaption {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 10px;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+
+

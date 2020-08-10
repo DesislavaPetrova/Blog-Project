@@ -80,9 +80,9 @@ p {
 
 .nav_bar {
     display: flex;
-    flex-wrap:
-	flex-direction: row;
-	list-style-type: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style-type: none;
 }
 
 .nav_bar_item a {
